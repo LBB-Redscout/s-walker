@@ -83,7 +83,7 @@ nav.on{background:rgba(12,11,9,.9);backdrop-filter:blur(16px);-webkit-backdrop-f
 .nav-name{font-size:17px;font-weight:800;letter-spacing:-.5px;color:${col.text_primary};opacity:0;transition:opacity .4s}
 nav.on .nav-name{opacity:1}.nav-name{text-decoration:none;cursor:pointer}.nav-name{text-decoration:none}
 .nav-links{display:flex;gap:44px;list-style:none}
-.nav-links a{font-size:11px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:rgba(242,237,228,.45);text-decoration:none;transition:color .2s}
+.nav-links a{font-size:11px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:rgba(242,237,228,.85);text-decoration:none;transition:color .2s}
 .nav-links a:hover{color:${col.text_primary}}
 
 .hero{position:relative;width:100%;height:100svh;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-end;background:${col.bg_primary}}
