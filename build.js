@@ -116,7 +116,7 @@ nav.on .nav-name{opacity:1}.nav-name{text-decoration:none;cursor:pointer}.nav-na
 .break-img{position:absolute;inset:0;background:url('${c.photos.break}') center 35%/cover no-repeat}
 .break-dim{position:absolute;inset:0;background:rgba(12,11,9,.52)}
 .break-quote{position:relative;z-index:2;text-align:center;padding:0 12%;font-size:clamp(22px,3.2vw,40px);font-weight:700;line-height:1.35;color:${col.text_primary};max-width:900px}
-.break-quote span{display:block;margin-top:24px;font-size:10px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:rgba(242,237,228,.35)}
+.break-quote span{display:block;margin-top:24px;font-size:10px;font-weight:600;letter-spacing:3px;text-transform:uppercase;color:rgba(242,237,228,.85)}
 
 .offers{background:${col.bg_primary};border-top:1px solid rgba(242,237,228,.06)}
 .offers-top{padding:80px 72px 0;display:flex;align-items:baseline;justify-content:space-between}
