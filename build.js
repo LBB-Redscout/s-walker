@@ -81,7 +81,7 @@ body{background:${col.bg_primary};color:${col.text_primary};font-family:"Inter",
 nav{position:fixed;top:0;left:0;right:0;z-index:900;padding:0 56px;height:62px;display:flex;align-items:center;justify-content:space-between;transition:background .4s,border-color .4s;border-bottom:1px solid transparent}
 nav.on{background:rgba(12,11,9,.9);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border-color:rgba(242,237,228,.07)}
 .nav-name{font-size:17px;font-weight:800;letter-spacing:-.5px;color:${col.text_primary};opacity:0;transition:opacity .4s}
-nav.on .nav-name{opacity:1}
+nav.on .nav-name{opacity:1}.nav-name{text-decoration:none}
 .nav-links{display:flex;gap:44px;list-style:none}
 .nav-links a{font-size:11px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:rgba(242,237,228,.45);text-decoration:none;transition:color .2s}
 .nav-links a:hover{color:${col.text_primary}}
@@ -95,7 +95,7 @@ nav.on .nav-name{opacity:1}
 .hero-pre{font-size:10px;font-weight:700;letter-spacing:4px;text-transform:uppercase;color:rgba(242,237,228,.4);margin-bottom:18px}
 .hero-name{font-family:"Inter",sans-serif;font-size:clamp(80px,12vw,168px);font-weight:900;line-height:.87;letter-spacing:-4px;color:${col.text_primary};margin-bottom:28px}
 .hero-name em{font-family:"Cormorant Garamond",serif;font-style:italic;font-weight:600;color:${col.accent};letter-spacing:-2px}
-.hero-line{font-size:clamp(17px,1.8vw,22px);font-weight:400;line-height:1.55;color:rgba(242,237,228,.6);max-width:520px}
+.hero-line{font-size:clamp(17px,1.8vw,22px);font-weight:400;line-height:1.55;color:rgba(242,237,228,.95);max-width:520px}
 .hero-scroll{position:absolute;right:72px;bottom:48px;z-index:2;display:flex;flex-direction:column;align-items:center;gap:10px;font-size:9px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:rgba(242,237,228,.25)}
 .hero-scroll-line{width:1px;height:52px;background:rgba(242,237,228,.15);transform-origin:top;animation:spulse 2.2s ease-in-out infinite}
 @keyframes spulse{0%,100%{opacity:.15;transform:scaleY(.4)}50%{opacity:.4;transform:scaleY(1)}}
