@@ -276,6 +276,7 @@ const HTML = `<!DOCTYPE html>
     <li><a href="#work">Work</a></li>
     <li><a href="#listen">Listen</a></li>
     <li><a href="#contact">Book</a></li>
+    <li><a href="https://linkedin.com/in/s-walker-unseen" target="_blank">LinkedIn</a></li>
   </ul>
 </nav>
 
