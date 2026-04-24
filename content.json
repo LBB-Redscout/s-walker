@@ -4,34 +4,30 @@
     "url_linkedin": "linkedin.com/in/s-walker-unseen",
     "url_substack": "substack.com/s-walker-unseen"
   },
-
   "photos": {
-    "hero":  "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1920&q=90&fit=crop&crop=center",
+    "hero": "https://images.unsplash.com/photo-1542224566-6e85f2e6772f?w=1920&q=90&fit=crop&crop=center",
     "about": "https://images.unsplash.com/photo-1511497584788-876760111969?w=1400&q=88&fit=crop&crop=center",
-    "break": "https://images.unsplash.com/photo-1504701954957-2010ec3bcec1?w=1920&q=88&fit=crop&crop=center"
+    "break": "https://images.unsplash.com/photo-1476231682828-37e571bc172f?w=1920&q=88&fit=crop&crop=center"
   },
-
   "colors": {
-    "accent":      "#8faa70",
+    "accent": "#8faa70",
     "accent_dark": "#3a5228",
-    "bg_primary":  "#0c0b09",
-    "bg_dark":     "#080806",
-    "text_primary":"#f2ede4"
+    "bg_primary": "#0c0b09",
+    "bg_dark": "#080806",
+    "text_primary": "#f2ede4"
   },
-
   "hero": {
-    "eyebrow":  "Pacific Northwest · Est. 1962",
+    "eyebrow": "Pacific Northwest · Est. 1962",
     "name_top": "S.",
     "name_bot": "Walker",
-    "tagline":  "He didn't build a personal brand. He left footprints. Apparently that was enough."
+    "tagline": "He didn't build a personal brand. He left footprints. Apparently that was enough."
   },
-
   "about": {
     "paragraphs": [
-      "I spent sixty years in the Pacific Northwest with no phone, no agent, no content calendar, and no LinkedIn. <strong>You've heard of me anyway.</strong>",
-      "I didn't build a personal brand. I left footprints. Apparently that was enough.",
-      "For decades, people debated whether I was real. I never corrected them. And somehow I became the most discussed figure in American folklore — without a single verified appearance.",
-      "Now I'm here. Not because I wanted visibility. Because I finally have something to say about what happens when you stop performing and start existing."
+      "S. Walker spent sixty years in the Pacific Northwest before anyone thought to put him on a conference lineup. He didn’t have a publicist. He didn’t have a podcast. He didn’t have a profile. He had time, silence, and an unusually high tolerance for being misidentified.",
+      "He is, by most measures, the most recognized figure in American folklore who has never once been confirmed to exist. That paradox — total cultural saturation, zero verified appearances — is the thing he’s finally decided to talk about.",
+      "His keynotes are not motivational. They are not framework-driven. They happen outdoors, around a fire, at coordinates disclosed 48 hours in advance. Executives fly in from New York and Tokyo. They leave their phones at the trailhead. They do not get a recording.",
+      "He does not travel to you."
     ],
     "footnote": [
       "Previously: Pacific Northwest (1962–2025)",
@@ -39,14 +35,12 @@
       "Does not accept connection requests"
     ]
   },
-
   "break_quote": "Every other keynote speaker is optimizing for reach. S. Walker's value is the opposite. The scarcity is the product. The pursuit is the experience.",
-
   "offers": [
     {
-      "tag":   "Keynote",
+      "tag": "Keynote",
       "title": "Wilderness\nKeynotes",
-      "body":  "No stage. No slides. No mic. No recording. Sessions happen in the Pacific Northwest, around a fire, at a location disclosed 48 hours in advance. You had to be there — and that's the point.",
+      "body": "No stage. No slides. No mic. No recording. Sessions happen in the Pacific Northwest, around a fire, at a location disclosed 48 hours in advance. You had to be there — and that's the point.",
       "facts": [
         "You travel to him",
         "Location disclosed 48h prior",
@@ -54,9 +48,9 @@
       ]
     },
     {
-      "tag":   "Immersion",
+      "tag": "Immersion",
       "title": "The\nSas-battical™",
-      "body":  "A 3-day leadership immersion. Go off-grid. Go to him. No devices, no itinerary, no agenda. The longest wilderness retreat in executive education — from the only speaker who's been on one for sixty years.",
+      "body": "A 3-day leadership immersion. Go off-grid. Go to him. No devices, no itinerary, no agenda. The longest wilderness retreat in executive education — from the only speaker who's been on one for sixty years.",
       "facts": [
         "3 days off-grid",
         "Teams of 6–12 leaders",
@@ -64,74 +58,81 @@
       ]
     }
   ],
-
   "talks": [
     {
       "title": "I Didn't Have a Marketing Budget. I Had Footprints.",
-      "desc":  "On building the world's most recognized brand with no strategy, no team, and no shoes. What happens when the work is the only signal — and why most companies are drowning in noise they created themselves."
+      "desc": "On building the world's most recognized brand with no strategy, no team, and no shoes. What happens when the work is the only signal — and why most companies are drowning in noise they created themselves."
     },
     {
       "title": "Unverified: What 60 Years Without a Profile Taught Me About Presence",
-      "desc":  "The most enduring figure in American culture was never once confirmed to exist. A keynote about the difference between being visible and being real."
+      "desc": "The most enduring figure in American culture was never once confirmed to exist. A keynote about the difference between being visible and being real."
     },
     {
       "title": "The Blur Was the Brand: Why the Best Strategy Is the One Nobody Can Screenshot",
-      "desc":  "Every grainy photo made me more famous. Every failed expedition sold more books. That's not an accident. That's a strategy."
+      "desc": "Every grainy photo made me more famous. Every failed expedition sold more books. That's not an accident. That's a strategy."
     }
   ],
-
   "podcast": {
-    "title":    "Unverified",
+    "title": "Unverified",
     "subtitle": "Episode 1 of 1 · 2 min 20 sec · No second episode.",
     "copy_hed": "One episode.\nThen he goes\nback to the woods.",
-    "copy_p1":  "The first time S. Walker has spoken publicly. No host. No intro. No series. Just a monologue about what happens when you stop talking and start lasting.",
-    "copy_p2":  "Available everywhere. No follow-up. No season two. The constraint is the content."
+    "copy_p1": "The first time S. Walker has spoken publicly. No host. No intro. No series. Just a monologue about what happens when you stop talking and start lasting.",
+    "copy_p2": "Available everywhere. No follow-up. No season two. The constraint is the content."
   },
-
   "testimonials": [
     {
       "quote": "He walked in twenty minutes late, barefoot, and gave the most compelling talk on executive presence I've ever seen. No slides. No mic. Somehow everyone heard him.",
-      "attr":  "VP People · Series D SaaS"
+      "attr": "VP People · Series D SaaS"
     },
     {
       "quote": "We booked the Sas-battical for our leadership team. He arrived three days early and lived in the woods behind the hotel. The team still talks about it. Two people quit their jobs. In a good way.",
-      "attr":  "Chief Strategy Officer · Global CPG"
+      "attr": "Chief Strategy Officer · Global CPG"
     },
     {
       "quote": "He doesn't give you frameworks. He gives you three days without a framework and then you realize that was the framework.",
-      "attr":  "CHRO · Fortune 500 Retailer"
+      "attr": "CHRO · Fortune 500 Retailer"
     },
     {
       "quote": "Survivor, but without Jeff.",
-      "attr":  "One attendee · post-retreat survey"
+      "attr": "One attendee · post-retreat survey"
     },
     {
       "quote": "I asked him about his morning routine. He said 'I wake up.' That was the whole answer. Somehow it was the best part of the conference.",
-      "attr":  "Head of Talent · Fintech Unicorn"
+      "attr": "Head of Talent · Fintech Unicorn"
     },
     {
       "quote": "We sent twelve VPs into the woods for three days. Nine came back different. The other three are still out there. We think they're fine.",
-      "attr":  "CEO · Global Consulting Firm"
+      "attr": "CEO · Global Consulting Firm"
     }
   ],
-
   "substack": {
-    "tag":            "The Dispatch",
-    "title":          "One note.\nWhen he feels like it.",
-    "body":           "S. Walker doesn't publish on a schedule. Expect one dispatch per season. Maybe fewer. The scarcity is the point.",
+    "tag": "The Dispatch",
+    "title": "One note.\nWhen he feels like it.",
+    "body": "S. Walker doesn't publish on a schedule. Expect one dispatch per season. Maybe fewer. The scarcity is the point.",
     "dispatch_count": "4",
     "dispatch_label": "Dispatches. Total. Ever.",
-    "url":            "substack.com/s-walker-unseen"
+    "url": "substack.com/s-walker-unseen"
   },
-
   "contact": {
     "heading_top": "You come",
     "heading_bot": "to him.",
-    "body":        "Proximity is earned. Reach out to Apex Talent Group. He won't be on the call.",
+    "body": "Proximity is earned. Reach out to Apex Talent Group. He won't be on the call.",
     "items": [
-      { "label": "Representation", "value": "Apex Talent Group",       "note": "All inquiries through representation only" },
-      { "label": "Email",          "value": "s.walker@apextalent.com", "note": "" },
-      { "label": "Speaking fee",   "value": "Come find out.",          "note": "" }
+      {
+        "label": "Representation",
+        "value": "Apex Talent Group",
+        "note": "All inquiries through representation only"
+      },
+      {
+        "label": "Email",
+        "value": "s.walker@apextalent.com",
+        "note": ""
+      },
+      {
+        "label": "Speaking fee",
+        "value": "Come find out.",
+        "note": ""
+      }
     ],
     "cta": "Request Proximity"
   }
