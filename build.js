@@ -106,11 +106,11 @@ nav.on .nav-name{opacity:1}.nav-name{text-decoration:none;cursor:pointer}.nav-na
 .about-photo{background:url('${c.photos.about}') center center/cover no-repeat;position:relative;overflow:hidden}
 .about-photo::after{content:"";position:absolute;inset:0;background:linear-gradient(to right,rgba(12,11,9,0) 55%,rgba(12,11,9,.5) 100%)}
 .about-text{background:${col.bg_primary};padding:88px 80px;display:flex;flex-direction:column;justify-content:center;border-left:1px solid rgba(242,237,228,.06)}
-.section-label{font-size:10px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:rgba(242,237,228,.3);margin-bottom:40px}
+.section-label{font-size:10px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:rgba(242,237,228,.7);margin-bottom:40px}
 .about-text p{font-size:18px;font-weight:400;line-height:1.75;color:rgba(242,237,228,.7);margin-bottom:20px}
 .about-text p:last-of-type{margin-bottom:0}
 .about-text strong{color:${col.text_primary};font-weight:700}
-.about-sig{margin-top:44px;padding-top:28px;border-top:1px solid rgba(242,237,228,.08);font-size:10px;font-weight:500;color:rgba(242,237,228,.2);line-height:2.4;text-transform:uppercase;letter-spacing:.3px}
+.about-sig{margin-top:44px;padding-top:28px;border-top:1px solid rgba(242,237,228,.08);font-size:10px;font-weight:500;color:rgba(242,237,228,.6);line-height:2.4;text-transform:uppercase;letter-spacing:.3px}
 
 .break{position:relative;height:65vh;overflow:hidden;display:flex;align-items:center;justify-content:center}
 .break-img{position:absolute;inset:0;background:url('${c.photos.break}') center 35%/cover no-repeat}
@@ -120,7 +120,7 @@ nav.on .nav-name{opacity:1}.nav-name{text-decoration:none;cursor:pointer}.nav-na
 
 .offers{background:${col.bg_primary};border-top:1px solid rgba(242,237,228,.06)}
 .offers-top{padding:80px 72px 0;display:flex;align-items:baseline;justify-content:space-between}
-.offers-top-note{font-family:"Cormorant Garamond",serif;font-size:20px;font-style:italic;color:rgba(242,237,228,.3)}
+.offers-top-note{font-family:"Cormorant Garamond",serif;font-size:20px;font-style:italic;color:rgba(242,237,228,.7)}
 .offers-grid{display:grid;grid-template-columns:1fr 1fr;margin-top:52px;border-top:1px solid rgba(242,237,228,.06)}
 .offer{padding:64px 72px;border-right:1px solid rgba(242,237,228,.06);transition:background .25s}
 .offer:last-child{border-right:none}
@@ -129,7 +129,7 @@ nav.on .nav-name{opacity:1}.nav-name{text-decoration:none;cursor:pointer}.nav-na
 .offer h2{font-size:40px;font-weight:800;line-height:1.05;color:${col.text_primary};letter-spacing:-1px;margin-bottom:18px}
 .offer-body{font-size:17px;font-weight:500;line-height:1.8;color:rgba(242,237,228,.90)}
 .offer-facts{margin-top:32px;padding-top:24px;border-top:1px solid rgba(242,237,228,.06);display:flex;flex-direction:column;gap:9px}
-.offer-fact{font-size:11px;font-weight:500;color:rgba(242,237,228,.35);display:flex;align-items:baseline;gap:12px}
+.offer-fact{font-size:11px;font-weight:500;color:rgba(242,237,228,.65);display:flex;align-items:baseline;gap:12px}
 .offer-fact::before{content:"—";color:${col.accent_dark};flex-shrink:0}
 
 .talks{border-top:1px solid rgba(242,237,228,.06)}
