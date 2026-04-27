@@ -361,7 +361,7 @@ const HTML = `<!DOCTYPE html>
 
 <section class="contact" id="contact">
   <div class="contact-l rv">
-    <h2>${safe(c.contact.heading_top)}<br>to <em>${safe(c.contact.heading_bot)}</em></h2>
+    <h2>${safe(c.contact.heading_top)}<br><em>${safe(c.contact.heading_bot)}</em></h2>
     <p>${safe(c.contact.body)}</p>
   </div>
   <div class="contact-r rv d2">
